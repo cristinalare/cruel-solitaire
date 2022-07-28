@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cruel-solitaire/static/css/main.d605c1ea.css",
+    "main.js": "/cruel-solitaire/static/js/main.539cca01.js",
+    "static/js/787.3c56cd33.chunk.js": "/cruel-solitaire/static/js/787.3c56cd33.chunk.js",
+    "static/media/diamond.png": "/cruel-solitaire/static/media/diamond.6b9eebb8f5de5ffc38ce.png",
+    "static/media/heart.webp": "/cruel-solitaire/static/media/heart.92bbe6d9c742c128eefc.webp",
+    "static/media/spade.png": "/cruel-solitaire/static/media/spade.e3fec004fbe27b43e4da.png",
+    "static/media/club.png": "/cruel-solitaire/static/media/club.1110650baeb76075952a.png",
+    "index.html": "/cruel-solitaire/index.html",
+    "main.d605c1ea.css.map": "/cruel-solitaire/static/css/main.d605c1ea.css.map",
+    "main.539cca01.js.map": "/cruel-solitaire/static/js/main.539cca01.js.map",
+    "787.3c56cd33.chunk.js.map": "/cruel-solitaire/static/js/787.3c56cd33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d605c1ea.css",
+    "static/js/main.539cca01.js"
+  ]
+}
